@@ -16,8 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title = "Home", icon = house}
-  - {file: "archive.html", title = "Hola"}
+  - {file: "index.md", icon = house}
+  - {file: "pages/publications.html"}
+  - {file: "pages/talks.html"}
+  - {file: "pages/teaching.html"}
+  - {file: "pages/software.html"}
+  - {file: "files/CV.pdf", title = CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Contact me, icon: envelope, url: "mailto:laura.guzman-rincon@warwick.ac.uk"}
