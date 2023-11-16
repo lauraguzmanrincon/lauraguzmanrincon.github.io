@@ -17,10 +17,10 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", icon = house}
-  - {file: "pages/publications.html"}
-  - {file: "pages/talks.html"}
-  - {file: "pages/teaching.html"}
-  - {file: "pages/software.html"}
+  - {file: "pages/publications.md"}
+  - {file: "pages/talks.md"}
+  - {file: "pages/teaching.md"}
+  - {file: "pages/software.md"}
   - {file: "files/CV.pdf", title = CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
