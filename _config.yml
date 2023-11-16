@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "pages/talks.md"}
   - {file: "pages/teaching.md"}
   - {file: "pages/software.md"}
-  - {file: "files/CV.pdf", title = CV}
+  - {file: "files/CV_2023-11-16.pdf", title = CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Contact me, icon: envelope, url: "mailto:laura.guzman-rincon@warwick.ac.uk"}
