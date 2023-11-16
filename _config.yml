@@ -17,7 +17,7 @@ minimal: true             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title = "Home", sidebaricon = home}
-  - {file: "README.md", title = "Hola"}
+  - {file: "archive.html", title = "Hola"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Contact me, icon: envelope, url: "mailto:laura.guzman-rincon@warwick.ac.uk"}
