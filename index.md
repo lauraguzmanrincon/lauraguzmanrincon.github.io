@@ -15,10 +15,6 @@ My most recent work aims to produce estimates and short-term forecasts of the gr
 
 I have also worked with colleagues in Astrophysics to use Gaussian processes to estimate the initial configuration of a cataclysmic variable.
 
-## Recent appointments
-
--
-
 ## Publications
 
 - **Guzman-Rincon, L.M.**, Hill, E.M., Dyson, L., Tildesley, M.J., Keeling, M.J., 2023. Bayesian Estimation of real-time Epidemic Growth Rates using Gaussian Processes: local dynamics of SARS-CoV-2 in England. _Journal of the Royal Statistical Society Series C: Applied Statistics_, qlad056. [https://doi.org/10.1093/jrsssc/qlad056](https://doi.org/10.1093/jrsssc/qlad056).
