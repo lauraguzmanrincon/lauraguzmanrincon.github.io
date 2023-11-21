@@ -5,7 +5,7 @@ title: ""
 
 # Laura Guzman-Rincon
 
-I'm a research fellow at the [Mathematics Insitute](https://warwick.ac.uk/fac/sci/maths/) of the University of Warwick, funded by the Warwick-Wellcome Translational Fellowship. I was previously appointed as a researcher funded by the [KEMRI-Wellcome Trust](https://kemri-wellcome.org/). During the pandemic, I worked as a researcher funded by the [JUNIPER consortium](https://maths.org/juniper/) and was a participant in the Scientific Pandemic Influenza Group on Modelling Operational sub-group, [SPI-M-O](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling), sub-group of SAGE that gives expert advice to the UK government.
+I'm a research fellow at the Mathematics Insitute of the University of Warwick, funded by the [Warwick-Wellcome Translational Fellowship](https://warwick.ac.uk/fac/sci/med/wellcome-translation/). I was previously appointed as a researcher funded by the [KEMRI-Wellcome Trust](https://kemri-wellcome.org/). During the pandemic, I worked as a researcher funded by the [JUNIPER consortium](https://maths.org/juniper/) and was a participant in the Scientific Pandemic Influenza Group on Modelling Operational sub-group, [SPI-M-O](https://www.gov.uk/government/groups/scientific-pandemic-influenza-subgroup-on-modelling), sub-group of SAGE that gives expert advice to the UK government.
 
 My research focuses on the development of Bayesian hierarchical models, primarily applied to epidemiology and other real-world challenges. I am particularly interested in the application of Gaussian processes to analyse genetic, temporal, and spatial data, and developing Markov Chain Monte Carlo (MCMC) techniques to enhance the implementation of these models.
 
