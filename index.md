@@ -1,10 +1,29 @@
 ---
 layout: page_Laura
-title: "Home"
+title: ""
 ---
 
 # Laura Guzman-Rincon
 
-I'm a research fellow at the [Mathematics Insitute](https://warwick.ac.uk/fac/sci/maths/) of the University of Warwick...+
+I'm a research fellow at the [Mathematics Insitute](https://warwick.ac.uk/fac/sci/maths/) of the University of Warwick.
 
-Epidemiology and spatio-temporal analysis, Bayesian hierarchical models and MCMC methods, Gaussian processes for genetic, temporal, and spatial analysis, genomics and outbreak detection.
+My research interests are in Bayesian statistics modelling applied to real-world problems. My most recent work focusses on temporal and spatial-temporal Bayesian hierarchical models for epidemiology, Gaussian processes for genetic, temporal, and spatial analysis, genomics and outbreak detection.
+
+## Publications
+
+- **Guzman-Rincon, L.M.**, Hill, E.M., Dyson, L., Tildesley, M.J., Keeling, M.J., 2023. Bayesian Estimation of real-time Epidemic Growth Rates using Gaussian Processes: local dynamics of SARS-CoV-2 in England. _Journal of the Royal Statistical Society Series C: Applied Statistics_, qlad056. https://doi.org/10.1093/jrsssc/qlad056.
+- Mwanga, M.J., Lambisia, A.W., Morobe, J.M., Murunga, N., Moraa, E., Ndwiga, L., Cheruiyot, R., Musyoki, J., Mutunga, M., **Guzman-Rincon, L.M.**, Sande, C., Mwangangi, J., Bejon, P., Ochola-Oyier, L.I., Nokes, J., Agoti, C.N., Nyiro, J., Githinji, G., 2023. New SARS-CoV-2 Omicron Variant with Spike Protein Mutation Y451H, Kilifi, Kenya, March–May 2023. _Emerging Infectious Diseases_, 29(11):2376-2379. https://doi.org/10.3201/eid2911.230894.
+- Brand, S.P.C., Cavallaro, M., Cumming, F., Turner, C., Florence, I., Blomquist, P., Hilton, J., **Guzman-Rincon, L.M.**, House, T., Nokes, J., Keeling, M.J., 2023. The role of vaccination and public awareness in medium-term forecasts of monkeypox incidence in the United Kingdom. _Nature Communications_, 14, 4100. https://doi.org/10.1038/s41467-023-38816-8.
+- Toloza O., Gänsicke, B.T., **Guzman-Rincon, L.M.**, Marsh, T.R., Szkody, P., Schreiber, M.R., Martino, D., Zorotovic, M., El-Badry, K., Koester, D., Lagos, F., 2023. The C/N ratio from FUV spectroscopy as a constraint on evolution of the dwarf nova HS 0218+ 3229, _Monthly Notices of the Royal Astronomical Society_, Volume 523, Issue 1, July 2023, Pages 305–326, https://doi.org/10.1093/mnras/stad1306.
+
+## On-going projects
+- **Guzman-Rincon, L.M.**, Mwanga, M.J., Githinji, G., Nokes, J. System for the early detection of variants of concern using sequences submitted in GISAID.
+- **Guzman-Rincon, L.M.**, Spencer S.E.F, McCarthy N. Detection of infectious disease outbreaks using epidemiological and genetic data: case-study of Campylobacter infections in England. (See my PhD thesis [here](https://wrap.warwick.ac.uk/153848/1/WRAP_Theses_Guzman_Rincon_2020.pdf)).
+
+## Other projects I have worked on with colleagues and mentors include:
+
+- The study of armed conflict patterns (personal work).
+- Image analysis of satellite photographs of the Antarctic to understand the behaviour of seals (British Antarctic Survey, Alan Turing Data Study Group 2019). (See report [here](https://www.turing.ac.uk/sites/default/files/2020-02/the_alan_turing_institute_data_study_group_final_report_-_british_antarctic_survey.pdf)).
+- Simulation of the propagation of train delays in the UK railways (Resonate, European Study Group with Industry 2017).
+- Prediction of the duration of traffic jams on UK highways (Thales, MSc group project, 2016).
+- Designing bacterial genes for controlling plant pathogens (Bronze medal, iGEM competition 2011, Colombian group).
