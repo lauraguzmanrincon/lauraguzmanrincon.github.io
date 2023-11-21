@@ -15,6 +15,10 @@ My most recent work aims to produce estimates and short-term forecasts of the gr
 
 I have also worked with colleagues in Astrophysics to use Gaussian processes to estimate the initial configuration of a cataclysmic variable.
 
+## Recent appointments
+
+-
+
 ## Publications
 
 - **Guzman-Rincon, L.M.**, Hill, E.M., Dyson, L., Tildesley, M.J., Keeling, M.J., 2023. Bayesian Estimation of real-time Epidemic Growth Rates using Gaussian Processes: local dynamics of SARS-CoV-2 in England. _Journal of the Royal Statistical Society Series C: Applied Statistics_, qlad056. [https://doi.org/10.1093/jrsssc/qlad056](https://doi.org/10.1093/jrsssc/qlad056).
@@ -28,7 +32,9 @@ I have also worked with colleagues in Astrophysics to use Gaussian processes to 
 
 ## Other projects I have worked on:
 
-- Image analysis of satellite photographs of the Antarctic to understand the behaviour of seals (British Antarctic Survey, Alan Turing Data Study Group 2019). (See report [here](https://www.turing.ac.uk/sites/default/files/2020-02/the_alan_turing_institute_data_study_group_final_report_-_british_antarctic_survey.pdf)).
+- Constructing a quantitative and qualitative approach to information theory and estimators of entropy from a statistical-logic theory perspective. (See my maths undergrad thesis [here](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysi/guzmanrincon/tesismate.pdf), in Spanish).
+- Understanding how to extend quantities in classical information theory to its quantum counterpart. (See my physics undergrad thesis [here](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysi/guzmanrincon/tesisfisica.pdf), in Spanish).
+- Image analysis of satellite photographs of the Antarctic to understand the behaviour of seals (British Antarctic Survey, Alan Turing Data Study Group 2019). (See the final report [here](https://www.turing.ac.uk/sites/default/files/2020-02/the_alan_turing_institute_data_study_group_final_report_-_british_antarctic_survey.pdf)).
 - Simulation of the propagation of train delays in the UK railways (Resonate, European Study Group with Industry 2017).
 - Prediction of the duration of traffic jams on UK highways (Thales, MSc group project, 2016).
 - The study of armed conflict patterns (personal work).
