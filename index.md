@@ -20,7 +20,7 @@ My research interests are in Bayesian statistics modelling applied to real-world
 - **Guzman-Rincon, L.M.**, Mwanga, M.J., Githinji, G., Nokes, J. System for the early detection of variants of concern using sequences submitted in GISAID.
 - **Guzman-Rincon, L.M.**, Spencer S.E.F, McCarthy N. Detection of infectious disease outbreaks using epidemiological and genetic data: case-study of Campylobacter infections in England. (See my PhD thesis [here](https://wrap.warwick.ac.uk/153848/1/WRAP_Theses_Guzman_Rincon_2020.pdf)).
 
-## Other projects I have worked on with colleagues and mentors include:
+## Other projects I have worked on:
 
 - The study of armed conflict patterns (personal work).
 - Image analysis of satellite photographs of the Antarctic to understand the behaviour of seals (British Antarctic Survey, Alan Turing Data Study Group 2019). (See report [here](https://www.turing.ac.uk/sites/default/files/2020-02/the_alan_turing_institute_data_study_group_final_report_-_british_antarctic_survey.pdf)).
