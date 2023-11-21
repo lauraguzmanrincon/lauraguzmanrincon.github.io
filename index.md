@@ -7,7 +7,7 @@ title: ""
 
 I'm a research fellow at the [Mathematics Insitute](https://warwick.ac.uk/fac/sci/maths/) of the University of Warwick.
 
-My research focuses on the development of Bayesian hierarchical models, primarily applied to epidemiology and other real-world challenges. I am particularly intrigued by the application of Gaussian processes to analyze genetic, temporal, and spatial data, and I am actively involved in advancing Markov Chain Monte Carlo (MCMC) techniques to enhance the implementation of these models.
+My research focuses on the development of Bayesian hierarchical models, primarily applied to epidemiology and other real-world challenges. I am particularly interested in the application of Gaussian processes to analyse genetic, temporal, and spatial data, and developing Markov Chain Monte Carlo (MCMC) techniques to enhance the implementation of these models.
 
 In my most recent work, I worked on developing a modelling framework to estimate and produce short-term forecasts of growth rates during an epidemic.
 
