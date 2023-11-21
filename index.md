@@ -21,7 +21,7 @@ I have also worked with colleagues in Astrophysics to use Gaussian processes to 
 - Toloza O., Gänsicke, B.T., **Guzman-Rincon, L.M.**, Marsh, T.R., Szkody, P., Schreiber, M.R., Martino, D., Zorotovic, M., El-Badry, K., Koester, D., Lagos, F., 2023. The C/N ratio from FUV spectroscopy as a constraint on evolution of the dwarf nova HS 0218+ 3229, _Monthly Notices of the Royal Astronomical Society_, Volume 523, Issue 1, July 2023, Pages 305–326, [https://doi.org/10.1093/mnras/stad1306](https://doi.org/10.1093/mnras/stad1306).
 
 ## On-going projects
-- System for the early detection of variants of concern using sequences submitted in GISAID. Project developed during my work with the KEMRI-Wellcome Trust with Mike Mwanga, George Githinji and James Nokes.
+- Methods for the early detection of SARS-CoV-2 variants of concern using sequences submitted in GISAID. Project developed during my work with the KEMRI-Wellcome Trust with Mike Mwanga, George Githinji and James Nokes.
 - Detection of infectious disease outbreaks using epidemiological and genetic data: case-study of Campylobacter infections in England. Project developed during my PhD with my supervisors Simon Spencer and Noel McCarthy. (See my PhD thesis [here](https://wrap.warwick.ac.uk/153848/1/WRAP_Theses_Guzman_Rincon_2020.pdf)).
 
 ## Other projects I have worked on:
