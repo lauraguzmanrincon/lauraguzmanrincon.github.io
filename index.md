@@ -7,7 +7,11 @@ title: ""
 
 I'm a research fellow at the [Mathematics Insitute](https://warwick.ac.uk/fac/sci/maths/) of the University of Warwick.
 
-My research interests are in developing Bayesian hierarchical models for epidemiology and other real-world fields. I am particularly interested in the use of Gaussian processes when genetic, temporal, and spatial data are available. My most recent work aims to estimate growth rates and produce short-term forecasts during an epidemic. During my PhD, I worked in outbreak detection using spatial-temporal and genetic data for Campylobacter infections. I have also worked with colleagues in Astrophysics for using Gaussian process to estimate the initial configuration of a cataclysmic variable.
+My research has been focussed on developing Bayesian hierarchical models for epidemiology and other real-world problems. I am particularly interested in the use of Gaussian processes for genetic, temporal, and spatial data.
+
+My most recent work aims to produce estimates and short-term forecasts of the growth rates during an epidemic. During my PhD, I worked in outbreak detection using spatial-temporal and genetic data for Campylobacter infections.
+
+I have also worked with colleagues in Astrophysics to use Gaussian processes to estimate the initial configuration of a cataclysmic variable.
 
 ## Publications
 
