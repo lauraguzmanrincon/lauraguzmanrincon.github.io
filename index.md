@@ -38,13 +38,13 @@ I have also worked with colleagues in Astrophysics to use Gaussian processes to 
 
 ## Awards and funding
 
-- 2023 Warwick-Wellcome Translational Fellowship Award. Research Fellow, University of Warwick, UK.
-- 2023 STEM For Britain - Finalist. Houses of Parliament, UK.
-- 2022 Weldon Memorial Prize. Awarded to the members of the SPI-M-O group. University of Oxford, UK.
-- 2022 SPI-M-O Award for Modelling and Data Support. Department of Health & Social Care, UK.
-- 2022 RAMP Outreach Innovation Award. RAMP (Rapid Assistance in Modelling the Pandemic) - The Royal Society, UK.
-- 2016–2020 EPSRC Scholarship. PhD Funding, University of Warwick, UK.
-- 2017 Cool Data of the Year award. Cappfinity, UK.
-- 2015–2016 Colfuturo Scholarship. MSc Funding, Colombia.
-- 2007–2013 Quiero Estudiar Scholarship. University of Los Andes, Colombia.
-- 2011 Bronze Award - International Genetically Engineered Machine Competition (iGEM). Colombian team. Indiana University, USA.
+- 2023. Warwick-Wellcome Translational Fellowship Award. Research Fellow, University of Warwick, UK.
+- 2023. STEM For Britain - Finalist. Houses of Parliament, UK.
+- 2022. Weldon Memorial Prize. Awarded to the members of the SPI-M-O group. University of Oxford, UK.
+- 2022. SPI-M-O Award for Modelling and Data Support. Department of Health & Social Care, UK.
+- 2022. RAMP Outreach Innovation Award. RAMP (Rapid Assistance in Modelling the Pandemic) - The Royal Society, UK.
+- 2016–2020. EPSRC Scholarship. PhD Funding, University of Warwick, UK.
+- 2017. Cool Data of the Year award. Cappfinity, UK.
+- 2015–2016. Colfuturo Scholarship. MSc Funding, Colombia.
+- 2007–2013. Quiero Estudiar Scholarship. University of Los Andes, Colombia.
+- 2011. Bronze Award - International Genetically Engineered Machine Competition (iGEM). Colombian team. Indiana University, USA.
