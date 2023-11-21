@@ -11,8 +11,6 @@ My research focuses on the development of Bayesian hierarchical models, primaril
 
 In my most recent work, I worked on developing a modelling framework to estimate and produce short-term forecasts of growth rates during an epidemic.
 
-My most recent work aims to produce estimates and short-term forecasts of the growth rates during an epidemic. During my PhD, I worked in outbreak detection using spatial-temporal and genetic data for Campylobacter infections.
-
 I have also worked with colleagues in Astrophysics to use Gaussian processes to estimate the initial configuration of a cataclysmic variable.
 
 ## Publications
