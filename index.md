@@ -26,13 +26,13 @@ I have also worked with colleagues in Astrophysics to use Gaussian processes to 
 
 ## Other projects I have worked on
 
-- Constructing a quantitative and qualitative approach to information theory and estimators of entropy from a statistical-logic theory perspective. (See my Mathematics undergraduate thesis [here](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysi/guzmanrincon/tesismate.pdf), in Spanish).
-- Understanding how to extend quantities in classical information theory to its quantum counterpart. (See my Physics undergraduate thesis [here](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysi/guzmanrincon/tesisfisica.pdf), in Spanish).
 - Image analysis of satellite photographs of the Antarctic to understand the behaviour of seals (British Antarctic Survey, Alan Turing Data Study Group 2019). (See the final report [here](https://www.turing.ac.uk/sites/default/files/2020-02/the_alan_turing_institute_data_study_group_final_report_-_british_antarctic_survey.pdf)).
 - Simulation of the propagation of train delays in the UK railways (Resonate, European Study Group with Industry 2017).
 - Prediction of the duration of traffic jams on UK highways (Thales, MSc group project, 2016).
 - The study of armed conflict patterns (personal work).
 - Designing bacterial genes for controlling plant pathogens (Bronze medal, iGEM competition 2011, Colombian group).
+- Constructing a quantitative and qualitative approach to information theory and estimators of entropy from a statistical-logic theory perspective. (2013. See my Mathematics undergraduate thesis [here](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysi/guzmanrincon/tesismate.pdf), in Spanish).
+- Understanding how to extend quantities in classical information theory to its quantum counterpart. (2020. See my Physics undergraduate thesis [here](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysi/guzmanrincon/tesisfisica.pdf), in Spanish).
 
 ## Awards and funding
 
