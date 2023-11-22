@@ -11,7 +11,7 @@ My research focuses on the development of Bayesian hierarchical models, primaril
 
 Recently, I have worked on developing a modelling framework to estimate and produce short-term forecasts of growth rates during an epidemic.
 
-I have also worked with colleagues in Astrophysics to use Gaussian processes to estimate the initial configuration of a cataclysmic variable.
+I have also worked with colleagues in Astrophysics to use Gaussian processes to estimate the initial configuration of the cataclysmic variable HS 0218+ 3229.
 
 ## Publications
 
@@ -36,13 +36,13 @@ I have also worked with colleagues in Astrophysics to use Gaussian processes to 
 
 ## Awards and funding
 
-- Warwick-Wellcome Translational Fellowship Award. Research Fellow, University of Warwick, UK. 2023.
-- STEM For Britain - Finalist. Houses of Parliament, UK, 2023.
-- Weldon Memorial Prize. Awarded to the members of the SPI-M-O group. University of Oxford, UK, 2022.
-- SPI-M-O Award for Modelling and Data Support. Department of Health & Social Care, UK, 2022.
-- RAMP Outreach Innovation Award. RAMP (Rapid Assistance in Modelling the Pandemic) - The Royal Society, UK, 2022.
-- EPSRC Scholarship. PhD Funding, University of Warwick, UK, 2016–2020.
-- Cool Data of the Year award. Cappfinity, UK, 2017.
-- Colfuturo Scholarship. MSc Funding, Colombia, 2015–2016.
-- Quiero Estudiar Scholarship. University of Los Andes, Colombia, 2007–2013.
-- Bronze Award - International Genetically Engineered Machine Competition (iGEM). Colombian team. Indiana University, USA, 2011.
+- **Warwick-Wellcome Translational Fellowship Award**. Research Fellow, University of Warwick, UK. 2023.
+- **STEM For Britain - Finalist**. Houses of Parliament, UK, 2023.
+- **Weldon Memorial Prize**. Awarded to the members of the SPI-M-O group. University of Oxford, UK, 2022.
+- **SPI-M-O Award for Modelling and Data Support**. Department of Health & Social Care, UK, 2022.
+- **RAMP Outreach Innovation Award**. RAMP (Rapid Assistance in Modelling the Pandemic) - The Royal Society, UK, 2022.
+- **EPSRC Scholarship**. PhD Funding, University of Warwick, UK, 2016–2020.
+- **Cool Data of the Year award**. Cappfinity, UK, 2017.
+- **Colfuturo Scholarship**. MSc Funding, Colombia, 2015–2016.
+- **Quiero Estudiar Scholarship**. University of Los Andes, Colombia, 2007–2013.
+- **Bronze Award - International Genetically Engineered Machine Competition (iGEM)**. Colombian team. Indiana University, USA, 2011.
