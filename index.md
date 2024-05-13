@@ -32,7 +32,7 @@ I have also worked with colleagues in Astrophysics to use Gaussian processes to 
 - The study of armed conflict patterns (personal work).
 - Designing bacterial genes for controlling plant pathogens (Bronze medal, iGEM competition 2011, Colombian group).
 - Constructing a quantitative and qualitative approach to information theory and estimators of entropy from a statistical-logic theory perspective. (2013. See my Mathematics undergraduate thesis [here](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysi/guzmanrincon/tesismate.pdf), in Spanish).
-- Understanding how to extend quantities in classical information theory to its quantum counterpart. (2020. See my Physics undergraduate thesis [here](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysi/guzmanrincon/tesisfisica.pdf), in Spanish).
+- Understanding how to extend quantities in classical information theory to its quantum counterpart. (2010. See my Physics undergraduate thesis [here](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysi/guzmanrincon/tesisfisica.pdf), in Spanish).
 
 ## Awards and funding
 
@@ -40,7 +40,7 @@ I have also worked with colleagues in Astrophysics to use Gaussian processes to 
 - **STEM For Britain - Finalist**. Houses of Parliament, UK, 2023.
 - **Weldon Memorial Prize**. Awarded to the members of the SPI-M-O group. University of Oxford, UK, 2022.
 - **SPI-M-O Award for Modelling and Data Support**. Department of Health & Social Care, UK, 2022.
-- **RAMP Outreach Innovation Award**. RAMP (Rapid Assistance in Modelling the Pandemic) - The Royal Society, UK, 2022.
+- **RAMP Outreach Innovation Award**, with Ed Hill as Lead applicant. RAMP (Rapid Assistance in Modelling the Pandemic) - The Royal Society, UK, 2022.
 - **EPSRC Scholarship**. PhD Funding, University of Warwick, UK, 2016–2020.
 - **Cool Data of the Year award**. Cappfinity, UK, 2017.
 - **Colfuturo Scholarship**. MSc Funding, Colombia, 2015–2016.
