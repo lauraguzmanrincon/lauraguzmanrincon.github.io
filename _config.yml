@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "CV.md", title = "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Contact me, icon: envelope, url: "mailto:laura.guzman-rincon@warwick.ac.uk"}
+  - {title: Contact me, icon: envelope, url: "mailto:lm.guzman439@uniandes.edu.co"}
   - {title: Check out my Github, icon: github, url: "https://github.com/lauraguzmanrincon"}
   - {title: Follow me on X, icon: twitter, url: "https://twitter.com/LGuzmanRincon"}
 
