@@ -5,7 +5,6 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-baseurl: "/"
 
 # Layout
 
@@ -13,11 +12,14 @@ show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
+navi: false                # include naviagation in sidebar
+### TODO: To include navigation (if I want to add more than just home page), will have to sort the menu for non-sidebar view (i.e. mobile)
+### To do this, need to add new menu style in _includes (at the moment header and footer use same menu style)
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", icon = house}
+  - {title: Home, file: "index.md", icon = house}
   #- {file: "publications.md"}
   #- {file: "talks.md"}
   #- {file: "teaching.md"}
