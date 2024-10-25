@@ -1,6 +1,6 @@
 ---
-layout: page_Laura
-title: ""
+layout: home_Jack
+title: "Home"
 ---
 
 # Laura Guzman-Rincon
