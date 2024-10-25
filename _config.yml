@@ -27,9 +27,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "CV.md", title = "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Contact me, icon: envelope, url: "mailto:lm.guzman439@uniandes.edu.co"}
-  - {title: Check out my Github, icon: github, url: "https://github.com/lauraguzmanrincon"}
-  - {title: Follow me on X, icon: twitter, url: "https://twitter.com/LGuzmanRincon"}
+  - {title: Visit my Github, icon: github, url: "https://github.com/lauraguzmanrincon"}
+  - {title: Google scholar, icon: scroll, url: "https://scholar.google.com/citations?user=MxkHD34AAAAJ&hl=en&oi=ao"}
+  - {title: Contact me, icon: envelope, url: "mailto:lmg65@cam.ac.uk"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
